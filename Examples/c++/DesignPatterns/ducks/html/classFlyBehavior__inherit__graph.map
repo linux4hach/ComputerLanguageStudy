@@ -1,0 +1,5 @@
+<map id="FlyBehavior" name="FlyBehavior">
+<area shape="rect" id="node2" href="$classFlyNoWay.html" title="{FlyNoWay\n||+ ~FlyNoWay()\l+ fly()\l}" alt="" coords="5,145,116,237"/>
+<area shape="rect" id="node3" href="$classFlyRocketPowered.html" title="{FlyRocketPowered\n||+ ~FlyRocketPowered()\l+ fly()\l}" alt="" coords="140,145,299,237"/>
+<area shape="rect" id="node4" href="$classFlyWithWings.html" title="{FlyWithWings\n||+ ~FlyWithWings()\l+ fly()\l}" alt="" coords="323,145,454,237"/>
+</map>

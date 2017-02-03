@@ -1,0 +1,13 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classDuck.html#a59e144ba5a78e174564a974f79c86a7c" title="Duck::PerformQuack" alt="" coords="110,5,254,32"/>
+<area shape="rect" id="node4" href="$classDuck.html#aa736b680e1a5a0e7a4d584db0449611d" title="Duck::PerformFly" alt="" coords="120,56,244,83"/>
+<area shape="rect" id="node6" href="$classDuck.html#abe868dd4423097a600929b00adb24b4f" title="Duck::Swim" alt="" coords="136,107,228,133"/>
+<area shape="rect" id="node7" href="$classDuck.html#a831bb74ef17c1faa9f0fb5d0dfe066ae" title="Duck::Display" alt="" coords="131,157,233,184"/>
+<area shape="rect" id="node8" href="$classMallardDuck.html#a5bb2f4942d95dd2b1fb6bfe87675e68a" title="MallardDuck::Display" alt="" coords="109,208,255,235"/>
+<area shape="rect" id="node9" href="$classRedHeadDuck.html#aa2d3bde8f5f0592bc87035c818591816" title="RedHeadDuck::Display" alt="" coords="104,259,260,285"/>
+<area shape="rect" id="node10" href="$classRubberDucky.html#ac1795eeb8c70585f2fda4cd9294ae63f" title="RubberDucky::Display" alt="" coords="107,309,257,336"/>
+<area shape="rect" id="node11" href="$classModelDuck.html#a7ff962ded1c14a4a2c89b43174c3024e" title="ModelDuck::Display" alt="" coords="113,360,251,387"/>
+<area shape="rect" id="node12" href="$classDuck.html#a9fccf6cbc33e02fab35a4128a9e514be" title="Duck::SetFlyBehavior" alt="" coords="107,411,257,437"/>
+<area shape="rect" id="node3" href="$classQuackBehavior.html#a3abd10dc543d85e22752c6bbe041e4c7" title="QuackBehavior::quack" alt="" coords="308,5,463,32"/>
+<area shape="rect" id="node5" href="$classFlyBehavior.html#add601e966f228e67500bcfebc8a0df10" title="FlyBehavior::fly" alt="" coords="329,56,442,83"/>
+</map>

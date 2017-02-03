@@ -1,0 +1,6 @@
+<map id="Duck" name="Duck">
+<area shape="rect" id="node2" href="$classMallardDuck.html" title="{MallardDuck\n||+ MallardDuck()\l+ ~MallardDuck()\l+ Display()\l}" alt="" coords="5,248,128,355"/>
+<area shape="rect" id="node3" href="$classModelDuck.html" title="{ModelDuck\n||+ ModelDuck()\l+ ~ModelDuck()\l+ Display()\l}" alt="" coords="152,248,267,355"/>
+<area shape="rect" id="node4" href="$classRedHeadDuck.html" title="{RedHeadDuck\n||+ RedHeadDuck()\l+ ~RedHeadDuck()\l+ Display()\l}" alt="" coords="291,248,424,355"/>
+<area shape="rect" id="node5" href="$classRubberDucky.html" title="{RubberDucky\n||+ RubberDucky()\l+ ~RubberDucky()\l+ Display()\l}" alt="" coords="448,248,576,355"/>
+</map>

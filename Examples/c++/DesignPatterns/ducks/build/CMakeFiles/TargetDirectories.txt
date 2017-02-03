@@ -1,0 +1,1 @@
+/home/cfair/Tutorial/DesignPatterns/ducks/build/CMakeFiles/Ducks.dir

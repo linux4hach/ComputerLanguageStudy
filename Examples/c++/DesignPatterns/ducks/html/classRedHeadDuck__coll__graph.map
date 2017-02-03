@@ -1,0 +1,5 @@
+<map id="RedHeadDuck" name="RedHeadDuck">
+<area shape="rect" id="node2" href="$classDuck.html" title="{Duck\n||+ Duck()\l+ ~Duck()\l+ PerformQuack()\l+ Swim()\l+ PerformFly()\l+ Display()\l+ SetFlyBehavior()\l+ SetQuackBehavior()\l}" alt="" coords="75,160,226,340"/>
+<area shape="rect" id="node3" href="$classQuackBehavior.html" title="{QuackBehavior\n||+ ~QuackBehavior()\l+ quack()\l}" alt="" coords="5,5,144,97"/>
+<area shape="rect" id="node4" href="$classFlyBehavior.html" title="{FlyBehavior\n||+ ~FlyBehavior()\l+ fly()\l}" alt="" coords="169,5,287,97"/>
+</map>

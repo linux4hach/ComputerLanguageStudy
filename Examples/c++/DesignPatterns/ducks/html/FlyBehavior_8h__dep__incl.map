@@ -1,0 +1,20 @@
+<map id="include/FlyBehavior/FlyBehavior.h" name="include/FlyBehavior/FlyBehavior.h">
+<area shape="rect" id="node2" href="$Duck_8h.html" title="include/Ducks/Duck.h" alt="" coords="798,102,947,129"/>
+<area shape="rect" id="node13" href="$FlyNoWay_8h.html" title="include/FlyBehavior\l/FlyNoWay.h" alt="" coords="1155,95,1291,136"/>
+<area shape="rect" id="node15" href="$FlyRocketPowered_8h.html" title="include/FlyBehavior\l/FlyRocketPowered.h" alt="" coords="1410,95,1557,136"/>
+<area shape="rect" id="node17" href="$FlyWithWings_8h.html" title="include/FlyBehavior\l/FlyWithWings.h" alt="" coords="397,95,533,136"/>
+<area shape="rect" id="node19" href="$FlyBehavior_8cpp.html" title="src/FlyBehavior/FlyBehavior.cpp" alt="" coords="1581,102,1791,129"/>
+<area shape="rect" id="node3" href="$MallardDuck_8h.html" title="include/Ducks/MallardDuck.h" alt="" coords="480,191,671,218"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="813,273,911,300"/>
+<area shape="rect" id="node6" href="$ModelDuck_8h.html" title="include/Ducks/ModelDuck.h" alt="" coords="1131,191,1315,218"/>
+<area shape="rect" id="node8" href="$RedHeadDuck_8h.html" title="include/Ducks/RedHeadDuck.h" alt="" coords="253,191,455,218"/>
+<area shape="rect" id="node10" href="$RubberDucky_8h.html" title="include/Ducks/RubberDucky.h" alt="" coords="910,191,1107,218"/>
+<area shape="rect" id="node12" href="$Duck_8cpp.html" title="src/Ducks/Duck.cpp" alt="" coords="695,191,835,218"/>
+<area shape="rect" id="node4" href="$MallardDuck_8cpp.html" title="src/Ducks/MallardDuck.cpp" alt="" coords="484,273,667,300"/>
+<area shape="rect" id="node7" href="$ModelDuck_8cpp.html" title="src/Ducks/ModelDuck.cpp" alt="" coords="1147,273,1321,300"/>
+<area shape="rect" id="node9" href="$RedHeadDuck_8cpp.html" title="src/Ducks/RedHeadDuck.cpp" alt="" coords="257,273,451,300"/>
+<area shape="rect" id="node11" href="$RubberDucky_8cpp.html" title="src/Ducks/RubberDucky.cpp" alt="" coords="935,273,1123,300"/>
+<area shape="rect" id="node14" href="$FlyNoWay_8cpp.html" title="src/FlyBehavior/FlyNoWay.cpp" alt="" coords="1339,191,1542,218"/>
+<area shape="rect" id="node16" href="$FlyRocketPowered_8cpp.html" title="src/FlyBehavior/FlyRocket\lPowered.cpp" alt="" coords="1617,184,1793,225"/>
+<area shape="rect" id="node18" href="$FlyWithWings_8cpp.html" title="src/FlyBehavior/FlyWithWings.cpp" alt="" coords="5,191,228,218"/>
+</map>

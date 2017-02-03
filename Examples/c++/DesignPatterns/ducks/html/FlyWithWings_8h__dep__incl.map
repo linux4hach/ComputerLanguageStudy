@@ -1,0 +1,8 @@
+<map id="include/FlyBehavior/FlyWithWings.h" name="include/FlyBehavior/FlyWithWings.h">
+<area shape="rect" id="node2" href="$MallardDuck_8h.html" title="include/Ducks/MallardDuck.h" alt="" coords="57,95,248,121"/>
+<area shape="rect" id="node5" href="$RedHeadDuck_8h.html" title="include/Ducks/RedHeadDuck.h" alt="" coords="273,95,475,121"/>
+<area shape="rect" id="node7" href="$FlyWithWings_8cpp.html" title="src/FlyBehavior/FlyWithWings.cpp" alt="" coords="500,95,723,121"/>
+<area shape="rect" id="node3" href="$MallardDuck_8cpp.html" title="src/Ducks/MallardDuck.cpp" alt="" coords="5,169,188,196"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="212,169,309,196"/>
+<area shape="rect" id="node6" href="$RedHeadDuck_8cpp.html" title="src/Ducks/RedHeadDuck.cpp" alt="" coords="333,169,527,196"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Duck" name="Duck">
+<area shape="rect" id="node2" href="$classQuackBehavior.html" title="{QuackBehavior\n||+ ~QuackBehavior()\l+ quack()\l}" alt="" coords="5,5,144,97"/>
+<area shape="rect" id="node3" href="$classFlyBehavior.html" title="{FlyBehavior\n||+ ~FlyBehavior()\l+ fly()\l}" alt="" coords="169,5,287,97"/>
+</map>

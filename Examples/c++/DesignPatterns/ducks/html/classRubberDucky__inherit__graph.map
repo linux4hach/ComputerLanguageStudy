@@ -1,0 +1,3 @@
+<map id="RubberDucky" name="RubberDucky">
+<area shape="rect" id="node2" href="$classDuck.html" title="{Duck\n|# flyBehavior\l# quackBehavior\l|+ Duck()\l+ ~Duck()\l+ PerformQuack()\l+ Swim()\l+ PerformFly()\l+ Display()\l+ SetFlyBehavior()\l+ SetQuackBehavior()\l}" alt="" coords="5,5,156,200"/>
+</map>

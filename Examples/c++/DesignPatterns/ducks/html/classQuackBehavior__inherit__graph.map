@@ -1,0 +1,5 @@
+<map id="QuackBehavior" name="QuackBehavior">
+<area shape="rect" id="node2" href="$classMuteQuack.html" title="{MuteQuack\n||+ ~MuteQuack()\l+ quack()\l}" alt="" coords="5,145,123,237"/>
+<area shape="rect" id="node3" href="$classQuack.html" title="{Quack\n||+ ~Quack()\l+ quack()\l}" alt="" coords="147,145,235,237"/>
+<area shape="rect" id="node4" href="$classSqueak.html" title="{Squeak\n||+ ~Squeak()\l+ quack()\l}" alt="" coords="259,145,354,237"/>
+</map>
